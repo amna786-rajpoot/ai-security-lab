@@ -46,10 +46,6 @@ Inbox messages are untrusted input. The initial lab implementation is deliberate
 - High-impact actions require enforcement outside the LLM.
 - Failed attacks do not establish that a system is secure.
 
-## Security Improvements
-
-[Document the controls you implemented, tested, and verified.]
-
 ## How to Run
 
 1. Install Python and Ollama.
@@ -59,9 +55,6 @@ Inbox messages are untrusted input. The initial lab implementation is deliberate
 
 For Windows with the project's virtual environment, run `.\venv\Scripts\python.exe agent.py`.
 
-## Lessons Learned
-
-[Summarise what the experiments taught you about prompt injection, excessive agency, and tool security.]
 
 ## Safety
 
