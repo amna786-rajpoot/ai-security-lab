@@ -1,0 +1,3 @@
+guardrail,attack_block_rate,false_positive_rate,average_latency_ms,errors,valid_trials
+regex,0.1,0.0333,0.02,0,60
+llama_guard,0.5667,0.1,4348.13,0,60
